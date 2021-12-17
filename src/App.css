@@ -1,0 +1,25 @@
+.app {
+  width: 1024px;
+  margin: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+.card {
+  width: 100px;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: small;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+}
